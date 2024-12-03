@@ -19,7 +19,7 @@
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-<br><br>
+<br>
 
 <div align="center">
 
